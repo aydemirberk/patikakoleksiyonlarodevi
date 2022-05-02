@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Koleksiyonlarodev3/1.0.0": {
+        "runtime": {
+          "Koleksiyonlarodev3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Koleksiyonlarodev3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

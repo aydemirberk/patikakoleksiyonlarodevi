@@ -1,0 +1,16 @@
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/bin/Debug/net5.0/Koleksiyonlarodev3
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/bin/Debug/net5.0/Koleksiyonlarodev3.deps.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/bin/Debug/net5.0/Koleksiyonlarodev3.runtimeconfig.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/bin/Debug/net5.0/Koleksiyonlarodev3.runtimeconfig.dev.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/bin/Debug/net5.0/Koleksiyonlarodev3.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/bin/Debug/net5.0/Koleksiyonlarodev3.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/obj/Debug/net5.0/Koleksiyonlarodev3.csproj.AssemblyReference.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/obj/Debug/net5.0/Koleksiyonlarodev3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/obj/Debug/net5.0/Koleksiyonlarodev3.AssemblyInfoInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/obj/Debug/net5.0/Koleksiyonlarodev3.AssemblyInfo.cs
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/obj/Debug/net5.0/Koleksiyonlarodev3.csproj.CoreCompileInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/obj/Debug/net5.0/Koleksiyonlarodev3.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/obj/Debug/net5.0/refint/Koleksiyonlarodev3.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/obj/Debug/net5.0/Koleksiyonlarodev3.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/obj/Debug/net5.0/Koleksiyonlarodev3.genruntimeconfig.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/Koleksiyonlarodev3/Koleksiyonlarodev3/obj/Debug/net5.0/ref/Koleksiyonlarodev3.dll
