@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IGo5KNKxY58oneJyXN9moUEplqY5Q6c1qMe7FmKv57Br9KF7Tc5M9gqTtHaAznLljD1SdEnkAxkqFekWSVpT3A==",
+  "success": true,
+  "projectFilePath": "/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/koleksiyonlarodev1.csproj",
+  "expectedPackageFiles": [
+    "/Users/berkaydemir/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/berkaydemir/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.16/microsoft.netcore.app.host.osx-x64.5.0.16.nupkg.sha512",
+    "/Users/berkaydemir/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

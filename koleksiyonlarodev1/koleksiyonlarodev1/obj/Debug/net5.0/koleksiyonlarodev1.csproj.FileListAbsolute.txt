@@ -1,0 +1,16 @@
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/bin/Debug/net5.0/koleksiyonlarodev1
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/bin/Debug/net5.0/koleksiyonlarodev1.deps.json
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/bin/Debug/net5.0/koleksiyonlarodev1.runtimeconfig.json
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/bin/Debug/net5.0/koleksiyonlarodev1.runtimeconfig.dev.json
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/bin/Debug/net5.0/koleksiyonlarodev1.dll
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/bin/Debug/net5.0/koleksiyonlarodev1.pdb
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/obj/Debug/net5.0/koleksiyonlarodev1.csproj.AssemblyReference.cache
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/obj/Debug/net5.0/koleksiyonlarodev1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/obj/Debug/net5.0/koleksiyonlarodev1.AssemblyInfoInputs.cache
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/obj/Debug/net5.0/koleksiyonlarodev1.AssemblyInfo.cs
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/obj/Debug/net5.0/koleksiyonlarodev1.csproj.CoreCompileInputs.cache
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/obj/Debug/net5.0/koleksiyonlarodev1.dll
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/obj/Debug/net5.0/refint/koleksiyonlarodev1.dll
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/obj/Debug/net5.0/koleksiyonlarodev1.pdb
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/obj/Debug/net5.0/koleksiyonlarodev1.genruntimeconfig.cache
+/Users/berkaydemir/Projects/koleksiyonlarodev1/koleksiyonlarodev1/obj/Debug/net5.0/ref/koleksiyonlarodev1.dll
